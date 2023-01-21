@@ -1,7 +1,8 @@
 
 
 <h1> Meals Project in Flutter </h1>
-<p> Hi Guys, Welcome 👋. This project was made on my studies, on flutter navigation screen. Hope u like it 😍
+<p> Hi Guys, Welcome 👋. This project was made on my studies, on flutter navigation screen. Hope u like it 😍</p>
+<br>
 <span align="center">
 ##  Meal Screen! 😍  
 </span>
