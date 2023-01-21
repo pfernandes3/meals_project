@@ -13,7 +13,7 @@
 
 
 <span align="center">
-##  Meal Detail Screen! 😍  
+## Favorite Screen! 😍  
 </span>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 
 <span align="center">
-##  Favorite Meal Detail Screen! 😍  
+## Meal Detail Screen! 😍  
 </span>
 
 <div align="center">
